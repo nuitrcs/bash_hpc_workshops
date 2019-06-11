@@ -33,7 +33,7 @@ Windows, which is not Unix based, does not come with a bash shell.  Please [inst
 
 [Mac OSX Snippets](https://github.com/herrbischoff/awesome-macos-command-line): useful shell commands specific to Macs.  Again, be careful.
 
-[Awesome Shell](https://github.com/alebcay/awesome-shell): Lots of 
+[Awesome Shell](https://github.com/alebcay/awesome-shell): A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 
 ## Cheat Sheets/Reference Sheets
 
