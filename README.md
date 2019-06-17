@@ -12,7 +12,10 @@ Links to current workshop materials are below.
 
 ## Quest
 
-Also add link to Quest page on our website and KB landing page for Quest.
+[Intro to Quest](https://github.com/nuitrcs/intro-quest-slurm-workshop)
+
+Also see the [Quest Documentation and User Guides](http://kb.northwestern.edu/quest)
+
 
 ## Parallelization
 
